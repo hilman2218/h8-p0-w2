@@ -1,0 +1,9 @@
+store " masssa benda" with value="600 kg"
+store " percepatn benda" with value="2 m/s2"
+srore " resultan gaya" without any value
+
+calculate "600" times "2"
+Set "resultan gaya" with "1200"
+
+display "1200" 
+

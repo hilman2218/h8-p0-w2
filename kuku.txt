@@ -1,0 +1,7 @@
+store perikasa murid
+	while coount murid < 41
+		if murid kotor
+		then hukuman
+		else
+		beri pujian
+	murid tambah 1

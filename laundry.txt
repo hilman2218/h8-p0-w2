@@ -1,0 +1,6 @@
+store pakaian
+	while pakaian less than 21
+	display masukan pakaian lagi
+	add pakaian by 1
+	
+dispaly nyalakan mensin cuci
